@@ -1,1 +1,10 @@
 https://nciphub.org/groups/nihai/seminars/nihai_workshop_on_image_segmentation
+
+https://github.com/rsummers11/CADLab
+https://github.com/abcsFrederick/gan
+https://adampharrison.gitlab.io/p-hnn/
+https://nihcc.app.box.com/v/ChestXray-NIHCC
+https://nihcc.app.box.com/v/DeepLesion
+https://github.com/speedinghzl/pytorch-segmentation-toolbox
+https://scholar.google.com/citations?user=udx2IT0AAAAJ&hl=en&oi=ao
+https://scholar.google.com/citations?user=QtYC2MIAAAAJ
